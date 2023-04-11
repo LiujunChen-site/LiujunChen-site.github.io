@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-* Email: liuy3470@myumanitoba.ca
-* LinkedIn: [Yixiu Liu](https://www.linkedin.com/in/yixiu-liu-b01b62175/?originalSubdomain=ca)
-* Max Rady College of Medicine Community Health Sciences S113 - 750 Bannatyne Avenue University of Manitoba Winnipeg, Manitoba R3E 0W3
+* Email: chenl4@myumanitoba.ca
+* LinkedIn: [Liujun Chen](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
+* College of Pharmacy Room 143 - 750 McDermot Avenue W, University of Manitoba Winnipeg, Manitoba R3E 0T5
