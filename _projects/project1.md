@@ -1,5 +1,5 @@
 ---
-title: "Canadian Longitudinal Study on Aging (CLSA)"
+title: "Project1"
 collection: projects
 type: "Research assistant"
 permalink: /projects/CLSA
