@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yixiu Liu"
-  avatar           : "headshot_Yixiu Liu_vertical.png"
-  bio              : "PhD candidate in biostatistics at the University of Manitoba | Biostatistician in the Cardiac Sciences Manitoba"
+  name             : "Liujun Chen"
+  avatar           : "LiujunChen_headshot.png"
+  bio              : "PhD candidate in metabolism at the University of Manitoba"
   location         : "Winnipeg, Manitoba"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "liuy3470@myumanitoba.ca"
+  email            : "chenl4@myumanitoba.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yixiuliu-site"
+  github           : "LiujunChen-site"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yixiu-liu-b01b62175/?originalSubdomain=ca"
+  linkedin         : # "yixiu-liu-b01b62175/?originalSubdomain=ca"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
