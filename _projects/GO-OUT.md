@@ -1,28 +1,15 @@
 ---
-title: "Getting Older adults OUTdoors (GO-OUT)"
+title: "The regulation of HSL by macrophage migration inhibitory factor (MIF) contributes to adipocyte hypertrophy and development of obesity"
 collection: projects
-type: "Research assistant/data analyst"
-permalink: /projects/GO-OUT
-venue: "Under the supervision of Dr. Ruth Barclay, College of Rehabilitaion Sciences, University of Manitoba"
+type: "Basic Research"
+permalink: /projects/MIF and HSL
+venue: "Under the supervision of Dr. Qi, College of Pharmacy, University of Manitoba"
 date: 2021-01-01
 location: "Winnipeg, Manitoba"
 ---
 
 ### Purposes ###
-The purposes of this project are using the data from the GOOUT to: a) develop a model adapted from the conceptual framework of the GOOUT intervention [(Salbach et al. (2019))](https://bmjopen.bmj.com/content/9/4/e029393), b) explore the complex relationship among individual characteristics and environmental characteristics and outdoor walking in older adults with outdoor walking difficulties.
-
-### My Roles ###
-* Applied for ethics approval to use the data
-* Cleaned data from RedCap
-* Conducted data quality check and preprocessing
-* Extracted and prepared data for researchers who will be using the GO-OUT data
-* Generated descriptive statistics and exploratory analyses for researchers who used the GO-OUT data
-* Conducted all the data analyses, in which the structural equation modeling is the main statistical method
-* Regularly reported, discussed progress and results with Dr. Barclay and Dr. Webber
-* Wrote the manuscript, edited and reviewed it based on coauthors' comments
+The purpose of this study is to investigate the role of MIF in regulating HSL, a key enzyme in mediating lipolysis in adipose tissue. Our findings demonstrate that MIF has both transcriptional and non-transcriptional effects on mediating HSL through activating AMPK signaling pathway, which regulates the development of adipocyte hypertrophy and obesity. [(Liujun et al. (2021))](https://diabetesjournals.org/diabetes/article/70/Supplement_1/197-LB/139733/197-LB-The-Regulation-of-HSL-by-Macrophage).
 
 ### Outcomes ###
-One first-authored manuscript is submitted to the Journal of Physiotherapy Theory and Practice.
-
-### What is the GO-OUT study? ###
-The Getting Older adults OUTdoors (GO-OUT) is a randomized controlled trial to evaluate the effect of a theory-based and task-oriented outdoor walking program for older adults with difficulties walking outdoors. It collected data at four time points (baseline, 3, 5.5, and 12 months) on about 200 participants since 2018. More details can be found in the [Clinical Trials official website](https://clinicaltrials.gov/ct2/show/NCT03292510).
+One first-authored manuscript is submitted to the Journal of Diabetes,One poster was presented in the 81st American Diabetes Association.
