@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Mentorships"
-permalink: /Student Mentorships/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Mentor
+Teaching Assistant
 =======
 
 ### 2017 Fall - 2022 Fall, CHSC 7820 Biostatistics for Community Health Sciences ###
