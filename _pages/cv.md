@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Marine Biopharmaceutics,College of Food Science & Technology, Shanghai Ocean University, Shanghai, China, 2010-2014
-* M.Sc. in Biology, College of Life and Environmental Science, Wenzhou University, China, 2014-2017
-* Ph.D Candidate in College of Pharmacy, Department of Rady Faculty of Health Sciences, University of Manitoba, 2019- current 
+* B.Sc. in Marine Biopharmaceutics,College of Food Science & Technology, Shanghai Ocean University, Shanghai, China.
+* M.Sc. in Biology, College of Life and Environmental Science, Wenzhou University, China.
+* Ph.D Candidate in College of Pharmacy, Department of Rady Faculty of Health Sciences, University of Manitoba, Canada. 
 
 Research Grants
 ======
