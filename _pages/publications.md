@@ -24,7 +24,6 @@ author_profile: true
 [Download paper here](https://journals.lww.com/pain/Fulltext/2021/02000/Metabolomic_analysis_coupled_with_extreme.25.aspx)
 
 ### 2018 ###
-* Wenjiang Jiang, **Yixiu Liu**\*. (2017). On the parameter estimation for quantile class I distribution. Journal of Yunnan University: Natural Science Edition 39(6): 915-923. doi: 10.7540/j.ynu.20170160 
+* **Liujun Chen**, Peichao Chen, Jian Liu, Chenxi Hu, Shanshan Yang, Dan He, Ping Yu, Mingjiang Wu\*, and Xu Zhang\*. Sargassum Fusiforme Polysaccharide SFP-F2 Activates the NF-κB Signaling Pathway via CD14/IKK and P38 Axes in RAW264.7 Cells. Marine Drugs. 2018 Aug 1;16(8). doi: 10.3390/md16080264 
 
-[Download paper here](http://www.yndxxb.ynu.edu.cn/yndxxbzrkxb/article/doi/10.7540/j.ynu.20170160)
-	
+[Download paper here](https://www.mdpi.com/1660-3397/16/8/264)
