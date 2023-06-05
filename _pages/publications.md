@@ -10,9 +10,9 @@ author_profile: true
 #### * Corresponding author ####
 
 ### 2023 ###
-* **Yixiu Liu**\*, Depeng Jiang. Multimorbidity patterns in US adults with subjective cognitive decline and their relationship with functional difficulties. Journal of Aging and Health. March 2022. doi: 10.1177/08982643221080287
+* Yiheng Huang, Donghong Cui, **Liujun Chen**, Haibin Tong, Hoong Wu, Grace K. Muller, Yadan Qi, Shuxia Wang, Jinjie Xu, Xiang Gao, Kathleen E. Fifield, Lingyan Wang, Zhengyuan Xia, Jacqueline L. Vanderluit, Suixin Liu, LinLeng, Guang Sun,John McGuire, Lawrence H, Young, Richard Bucala, and Dake Qi\*. A pref-1-controlled non-inflammatory mechanism of insulin resistance. iScience. June 2023. doi: 10.1016/ j.isci.2023.106923
 
-[Download paper here](https://journals.sagepub.com/doi/full/10.1177/08982643221080287)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S2589004223010003)
 
 *	**Yixiu Liu**, Depeng Jiang\*, Robert Tate,  Philip St. John. Frequency of data collection and estimation of trajectories of physical functioning and their associations with survival in older men: analyses of longitudinal data from the Manitoba Follow-Up Study. BMJ Open 2022;12:e054385. doi: 10.1136/bmjopen-2021-054385
 
