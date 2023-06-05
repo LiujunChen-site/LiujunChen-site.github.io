@@ -14,15 +14,14 @@ author_profile: true
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S2589004223010003)
 
-*	**Yixiu Liu**, Depeng Jiang\*, Robert Tate,  Philip St. John. Frequency of data collection and estimation of trajectories of physical functioning and their associations with survival in older men: analyses of longitudinal data from the Manitoba Follow-Up Study. BMJ Open 2022;12:e054385. doi: 10.1136/bmjopen-2021-054385
-
-[Download paper here](https://bmjopen.bmj.com/content/12/4/e054385)
-
 ### 2021 ###
+* Ming Liu, Zikun Xie, Guang Sun, **Liujun Chen**, Dake Qi, Hongwei Zhang, Jieying Xiong, Andrew Furey, Proton Rahman, Guanghua Lei, Guangju Zhai\*. Macrophage migration inhibitory factor may play a protective role in osteoarthritis.Arthritis Research & Therapy. February 2021. doi: 10.1186/s13075-021-02442-w
+
+[Download paper here](https://link.springer.com/article/10.1186/s13075-021-02442-w)
+
 * Depeng Jiang\*, Jian Chen, **Yixiu Liu**, Jing Lin, Kun Liu, Haizhu Chen, Xuejing Jiang, Yingjie Zhang, Xuan Chen, Binglin Cui, Shaoping Jiang, Jianchang Jiang, Hua Zhang, Huiyi Hu, Chendong Li, Wenjuan Li, E. Li, Hui Pan\* (2021). Patterns of mental health problems before and after easing COVID-19 restrictions: Evidence from a 105248-subject survey in general population in China. PLoS ONE 16(8): e0255251. 
 
 [Download paper here](https://doi.org/10.1371/journal.pone.0255251)
-
 ### 2018 ###
 * Wenjiang Jiang, **Yixiu Liu**\*. (2017). On the parameter estimation for quantile class I distribution. Journal of Yunnan University: Natural Science Edition 39(6): 915-923. doi: 10.7540/j.ynu.20170160 
 
