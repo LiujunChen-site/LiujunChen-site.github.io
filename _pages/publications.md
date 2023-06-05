@@ -9,7 +9,7 @@ author_profile: true
 
 #### * Corresponding author ####
 
-### 2022 ###
+### 2023 ###
 * **Yixiu Liu**\*, Depeng Jiang. Multimorbidity patterns in US adults with subjective cognitive decline and their relationship with functional difficulties. Journal of Aging and Health. March 2022. doi: 10.1177/08982643221080287
 
 [Download paper here](https://journals.sagepub.com/doi/full/10.1177/08982643221080287)
@@ -23,7 +23,7 @@ author_profile: true
 
 [Download paper here](https://doi.org/10.1371/journal.pone.0255251)
 
-### 2017 ###
+### 2018 ###
 * Wenjiang Jiang, **Yixiu Liu**\*. (2017). On the parameter estimation for quantile class I distribution. Journal of Yunnan University: Natural Science Edition 39(6): 915-923. doi: 10.7540/j.ynu.20170160 
 
 [Download paper here](http://www.yndxxb.ynu.edu.cn/yndxxbzrkxb/article/doi/10.7540/j.ynu.20170160)
