@@ -19,9 +19,10 @@ author_profile: true
 
 [Download paper here](https://link.springer.com/article/10.1186/s13075-021-02442-w)
 
-* Depeng Jiang\*, Jian Chen, **Yixiu Liu**, Jing Lin, Kun Liu, Haizhu Chen, Xuejing Jiang, Yingjie Zhang, Xuan Chen, Binglin Cui, Shaoping Jiang, Jianchang Jiang, Hua Zhang, Huiyi Hu, Chendong Li, Wenjuan Li, E. Li, Hui Pan\* (2021). Patterns of mental health problems before and after easing COVID-19 restrictions: Evidence from a 105248-subject survey in general population in China. PLoS ONE 16(8): e0255251. 
+* Ming Liu, Zikun Xie, Christie A. Costello, Weidong Zhang, **Liujun Chen**, Dake Qi, Andrew Furey, Edward W. Randell, Proton Rahman, Guangju Zhai\*. Metabolomic Analysis Coupled with Extreme Phenotype Sampling Identified That Lysophosphatidylcholines are Associated with Multisite Musculoskeletal Pain. Pain. 2021;162(2):600-608. doi: 10.1097/j.pain.0000000000002052
 
-[Download paper here](https://doi.org/10.1371/journal.pone.0255251)
+[Download paper here](https://journals.lww.com/pain/Fulltext/2021/02000/Metabolomic_analysis_coupled_with_extreme.25.aspx)
+
 ### 2018 ###
 * Wenjiang Jiang, **Yixiu Liu**\*. (2017). On the parameter estimation for quantile class I distribution. Journal of Yunnan University: Natural Science Edition 39(6): 915-923. doi: 10.7540/j.ynu.20170160 
 
