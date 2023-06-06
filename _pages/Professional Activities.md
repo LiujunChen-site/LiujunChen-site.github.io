@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /Teaching/
+permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Reviewer
+Teaching Assistant
 =======
 
 ### 2017 Fall - 2022 Fall, CHSC 7820 Biostatistics for Community Health Sciences ###
