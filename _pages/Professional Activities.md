@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-TReviewer Assistant
+Service to Profession
 =======
 
-### 2017 Fall - 2022 Fall, CHSC 7820 Biostatistics for Community Health Sciences ###
+### Reviewer ###
 
 Graduate course, Department of Community Health Sciences, Univeristy of Manitoba, Winnipeg, Manitoba
 
