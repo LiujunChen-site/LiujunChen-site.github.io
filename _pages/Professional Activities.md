@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching Assistant
+Reviewer
 =======
 
 ### 2017 Fall - 2022 Fall, CHSC 7820 Biostatistics for Community Health Sciences ###
