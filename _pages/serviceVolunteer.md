@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: " Volunteer Activity"
+permalink: /serviceVolunteer/
 author_profile: true
 ---
 
