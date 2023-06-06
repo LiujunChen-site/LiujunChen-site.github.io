@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Publications ##
+## Journal Publications  ##
 
 {% include base_path %}
 #### * Corresponding author ####
