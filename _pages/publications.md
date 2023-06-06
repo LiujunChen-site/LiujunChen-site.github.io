@@ -3,7 +3,7 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-#### * Journal Publications ####
+## Journal Publications ##
 {% include base_path %}
 #### * Corresponding author ####
 
@@ -22,10 +22,10 @@ author_profile: true
 * **Liujun Chen**, Peichao Chen, Jian Liu, Chenxi Hu, Shanshan Yang, Dan He, Ping Yu, Mingjiang Wu\*, and Xu Zhang\*. Sargassum Fusiforme Polysaccharide SFP-F2 Activates the NF-κB Signaling Pathway via CD14/IKK and P38 Axes in RAW264.7 Cells. Marine Drugs. 2018 Aug 1;16(8). doi: 10.3390/md16080264 
 [Download paper here](https://www.mdpi.com/1660-3397/16/8/264)
 
-#### * Awarded Patents ####
+## Awarded Patents ##
 
 * Mingjiang Wu, **Liujun Chen**, Xu Zhang, Dan He, Xiuxiu Lin, Shanshan Yang, Peichao Chen, ect A method for preparing anti-inflammatory effects of Sargassum fusiforme polysaccharides and the application in functional foods. (CN201610556342.0)
 
-#### * Abstract Publications ####
+## Abstract Publications ##
 
 * More information Please find it in the Projects
