@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -17,6 +16,6 @@ Service to Profession
 * Oxidative Medicine and Cellular Longevity, 2020
 
 ### Trainee ###
-* 3D, spectral imaging and super resolution imaging training, 2021
-* Ph.D. visiting student, 2018
-* Undergraduate Trainee in Marine Medicine Laboratory, 2014
+* 3D, spectral imaging and super resolution imaging training
+* Ph.D. visiting student
+* Undergraduate Trainee in Marine Medicine Laboratory
