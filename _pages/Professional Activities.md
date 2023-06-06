@@ -14,7 +14,7 @@ Service to Profession
 
 Graduate course, Department of Community Health Sciences, Univeristy of Manitoba, Winnipeg, Manitoba
 
-### Responsibilities ###
+### Trainee ###
 * Prepared and delivered lab lectures 
 * Evaluated and graded students’ assignments
 * Maintained student attendance records, grades, and other required records
