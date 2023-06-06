@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Journal Pubblications ##
+## Journal Publications ##
 #### * Corresponding author ####
 
 ### 2023 ###
