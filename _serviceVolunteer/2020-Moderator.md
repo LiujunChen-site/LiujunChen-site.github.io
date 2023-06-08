@@ -3,7 +3,7 @@ title: "Moderator for the Child and Youth Health session"
 collection: serviceVolunteer
 type: "2023.08.21-28"
 permalink: /serviceVolunteer/2020-Moderator
-venue: "the 33rd Canadian Student Health Research Forum"
+venue: "the 33rd Canadian Student Health Research Forum,Manitoba,Canada"
 date: 2023.08.21-28
 location: "Virtual"
 ---
