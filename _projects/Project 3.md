@@ -9,7 +9,7 @@ location: "Winnipeg, Manitoba"
 ---
 
 ### Purposes ###
-The purpose of this study is to explore a novel negative regulator of MIF and its role in regulating MIF expression in the context of obesity and insulin resistance has yielded promising results. These findings open up new avenues for understanding the complex interplay between MIF signaling and metabolic homeostasis.
+The aim of our investigation is to delve into a novel negative regulator of MIF and its impact on MIF expression within the context of obesity and insulin resistance. Our efforts in this direction have yielded promising results, presenting exciting prospects. These findings offer fresh insights into the intricate relationship between MIF signaling and metabolic balance. Our project recommenced in 2023, involving the feeding of animals from the adipose MIF specific knockout group for further study.
 
 ### Outcomes ###
 A "Outstanding Oral Presentation" Award in a seminar, 2018.
