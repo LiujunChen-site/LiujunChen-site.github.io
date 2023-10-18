@@ -4,7 +4,7 @@ collection: projects
 type: "Basic Research"
 permalink: /projects/MIF-CD74-NAFLD
 venue: "Under the supervision of Dr.Qi, College of Pharmacy, University of Manitoba"
-date: 2020-01-01
+date: 2023-01-01
 location: "Winnipeg, Manitoba"
 ---
 
