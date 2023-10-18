@@ -4,7 +4,7 @@ collection: projects
 type: "Basic Research"
 permalink: /projects/MIF and a negative regulator
 venue: "Under the supervision of Dr. Qi, College of Pharmacy, University of Manitoba"
-date: Current
+date: 2021-01-01
 location: "Winnipeg, Manitoba"
 ---
 
