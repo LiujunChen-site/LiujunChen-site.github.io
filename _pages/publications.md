@@ -10,6 +10,10 @@ author_profile: true
 #### * Corresponding author ####
 
 ### 2023 ###
+**Liujun Chen**, Lisha Li, Donghong Cui, Yiheng Huang, Haibin Tong, Haleh Zabihi, Shuxia Wang, Yadan Qi, Ted Lakowski, Lin Leng, Suixin Liu, Hong Wu, Lawrence H. Young, Richard Bucala, Dake Qi\*. Extracellular Macrophage Migration Inhibitory Factor (MIF) Downregulates Adipose Hormone-Sensitive Lipase (HSL) and Contributes to Obesity. Molecular Metabolism. November 2023.doi:10.1016/j.molmet.2023.101834
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S2212877823001680?via%3Dihub)
+
+### 2023 ###
 * Yiheng Huang, Donghong Cui, **Liujun Chen**, Haibin Tong, Hoong Wu, Grace K. Muller, Yadan Qi, Shuxia Wang, Jinjie Xu, Xiang Gao, Kathleen E. Fifield, Lingyan Wang, Zhengyuan Xia, Jacqueline L. Vanderluit, Suixin Liu, LinLeng, Guang Sun,John McGuire, Lawrence H, Young, Richard Bucala, and Dake Qi\*. A pref-1-controlled non-inflammatory mechanism of insulin resistance. iScience. June 2023. doi: 10.1016/ j.isci.2023.106923
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S2589004223010003)
 
