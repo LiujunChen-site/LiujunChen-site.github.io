@@ -219,10 +219,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _A
   - scope:
       path: ""
-      type: teaching
+      type: A
     values:
       layout: single
       author_profile: true
