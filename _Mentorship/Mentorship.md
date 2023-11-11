@@ -1,5 +1,5 @@
 ---
-title: "Mentorship"
+title: "Mentor"
 collection: Mentorship
 type: "2022.04– Current"
 permalink: /work/Mentor
