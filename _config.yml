@@ -219,10 +219,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _A
+  # _Academic Experience
   - scope:
       path: ""
-      type: A
+      type: Academic Experience
     values:
       layout: single
       author_profile: true
