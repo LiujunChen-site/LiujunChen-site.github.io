@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /A/
+permalink: /Academic Experience/
 author_profile: true
 ---
 
