@@ -12,4 +12,4 @@ location: "Winnipeg, Manitoba"
 The purpose of this study is to investigate the role of MIF in regulating HSL, a key enzyme in mediating lipolysis in adipose tissue. Our findings demonstrate that MIF has both transcriptional and non-transcriptional effects on mediating HSL through activating AMPK signaling pathway, which regulates the development of adipocyte hypertrophy and obesity. [(Liujun et al. (2021))](https://diabetesjournals.org/diabetes/article/70/Supplement_1/197-LB/139733/197-LB-The-Regulation-of-HSL-by-Macrophage).
 
 ### Outcomes ###
-One first-authored manuscript is submitted to the Journal of Diabetes,One poster was presented in the 81st American Diabetes Association.
+Manuscript was acccepted by Molecualr Metabolism (2023),One poster was presented in the 81st American Diabetes Association (2021).
