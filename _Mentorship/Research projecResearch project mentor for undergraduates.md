@@ -2,7 +2,7 @@
 title: "Research project mentor of undergraduates "
 collection: Mentorship
 type: "2015.03 – 2019.09"
-permalink: /work/Research project mentor for undergraduates
+permalink: /Mentorship/Research project mentor for undergraduates
 venue: "Laboratory Basic"
 
 location: "Laboratory"
