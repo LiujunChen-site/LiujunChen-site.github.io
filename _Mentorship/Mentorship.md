@@ -1,6 +1,6 @@
 ---
 title: "Mentor"
-collection:mentorship
+collection: mentorship
 type: "2022.04– Current"
 permalink: /mentorship/Mentor
 venue: College of Pharmacy, University of Manitoba, Graduate Mentorship Program
