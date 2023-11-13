@@ -2,7 +2,7 @@
 title: "Mentor"
 collection: Mentorship
 type: "2022.04– Current"
-permalink: /Mentorship/Mentor
+permalink: /mentorship/Mentor
 venue: College of Pharmacy, University of Manitoba, Graduate Mentorship Program
 date: 2022-04-01
 location: "Winnipeg, Manitoba"
