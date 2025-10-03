@@ -15,4 +15,4 @@ This project investigates the therapeutic potential of HTH-01-015, a selective N
 - Significant reduction in Col1A1 and α-SMA expression observed in LX-2 and Col1A1-GFP mice models treated with HTH-01-015.
 - In vitro and ex vivo assays revealed decreased extracellular matrix deposition and enhanced mitochondrial function upon NUAK1 inhibition.
 - Quantitative imaging, Western blotting, and qPCR analyses support HTH-01-015’s anti-fibrotic and metabolic benefits.
-- One manuscript under preparation for journal submission.
+- Progress 60%.
