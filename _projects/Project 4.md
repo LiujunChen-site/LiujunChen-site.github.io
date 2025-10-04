@@ -3,7 +3,7 @@ title: "Metabolites modulate the development of liver fibrosis"
 collection: projects
 type: "Basic Research"
 permalink: /projects/L-isoleucine-and-L-carnitine
-venue: "Under the supervision of Dr. Herbert Gaisano, Department of Physiology, University of Toronto"
+venue: "Department of Physiology, University of Toronto"
 date: 2024-04-01
 location: "Toronto, Ontario"
 ---
