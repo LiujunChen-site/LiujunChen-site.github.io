@@ -3,7 +3,7 @@ title: "NUAK1 inhibition alleviates liver fibrosis and lipid accumulation"
 collection: projects
 type: "Basic Research"
 permalink: /projects/NUAK1-inhibition-in-liver-fibrosis
-venue: "Under the supervision of Dr. Herbert Gaisano, Department of Physiology, University of Toronto"
+venue: "Department of Physiology, University of Toronto"
 date: 2024-04-01
 location: "Toronto, Ontario"
 ---
